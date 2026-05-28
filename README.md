@@ -157,25 +157,25 @@ DATABASE_NAME=your_database_name
 
 ## 🔐 Student Login
 
-![Student Login](screenshots/student_login.png)
+![Student Login](screenshots/student_login.jpeg)
 
 ---
 
 ## 🔐 Admin Login
 
-![Admin Login](screenshots/admin_login.png)
+![Admin Login](screenshots/admin_login.jpeg)
 
 ---
 
 ## 👨‍🎓 Student Dashboard
 
-![Student Dashboard](screenshots/student_dashboard.png)
+![Student Dashboard](screenshots/student_dashboard.jpeg)
 
 ---
 
 ## 👨‍💼 Admin Dashboard
 
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![Admin Dashboard](screenshots/admin_dashboard.jpeg)
 
 ---
 
