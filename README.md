@@ -179,18 +179,6 @@ DATABASE_NAME=your_database_name
 
 ---
 
-## 📄 Document Upload
-
-![Document Upload](screenshots/upload_page.png)
-
----
-
-## 📊 Verification Result
-
-![Verification Result](screenshots/verification_result.png)
-
----
-
 # 🔥 Main Modules
 
 ## 📄 OCR Pipeline
